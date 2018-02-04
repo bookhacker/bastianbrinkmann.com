@@ -1,2 +1,2 @@
 # bastianbrinkmann.com
-Personal website (created with [epic-blog](https://github.com/bookhacker/epic-blog/)).
+[Personal website](https://bastianbrinkmann.com/) (created with [epic-blog](https://github.com/bookhacker/epic-blog/)).
